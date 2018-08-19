@@ -3,7 +3,7 @@
 This project is part of Udacity Nanodegree Program. The main goal is to transform a static template using React. 
 The main page of the app contains a book library divided into three different shelves. The books can be moved between the shelves using the  green button with an arrow. There is a search page for adding more books to the library. To navigate this page, there is a button with plus sign. 
 
-![picture](screenshot/screenshot.png)
+![picture](screenshot/screenshot3.png)
 
 ![picture](screenshot/secondScreenshot.png)
 
