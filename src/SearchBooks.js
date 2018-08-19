@@ -64,10 +64,10 @@ class SearchBooks extends Component {
                 {showBooks.map((book) => (
                 	<Book
                   	  book={ book }
-					  books={ books }
-					  key={ book.id }
-					  changeShelf={ changeShelf }
-					/>
+			  books={ books }
+			  key={ book.id }
+			  changeShelf={ changeShelf }
+			/>
                 ))}
               </ol>
             </div>
